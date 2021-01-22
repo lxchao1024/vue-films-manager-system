@@ -69,6 +69,9 @@
     width: 100%;
     background-size: cover;
     position: fixed;
+    align-items: center;
+    align-content: center;
+    flex: 1;
   }
    body{
      margin: 0;
